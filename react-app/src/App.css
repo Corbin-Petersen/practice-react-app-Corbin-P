@@ -1,0 +1,18 @@
+.profile-card {
+    max-width: 400px;
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 200px;
+}
+.card-info {
+    font-weight: 200;
+}
+.profile-container {
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+
+}
